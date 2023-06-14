@@ -74,6 +74,6 @@ In order to take full advantage of this project. It is important to know each of
 \** todo = task
 
 ## Developers
-- [Arthur Blaringhem](https://www.github.com/ZerLock)
-- [Maxence Poirette](https://github.com/ZiplEix)
-- [Raphaël Sillegue](https://github.com/ZiplEix)
+- [Arthur Blaringhem](https://github.com/ablaring)
+- [Maxence Poirette](https://github.com/MaxencePrt)
+- [Raphaël Sillegue](https://github.com/raaphh)
